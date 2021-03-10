@@ -6,7 +6,7 @@ In this age of information explosion, its hard for everyone grab the useful info
 This project tries to make the information transfer easier by creating a message board which displays the right information for the right people at the right time.
  
 ## Screenshots
-Include logo/demo screenshot etc.
+![alt text](https://github.com/Kenny-Z/CloudBased-Message-Board-with-Face-Recognition/blob/main/resource/images/systemdiagram.png?raw=true)
 
 ## Tech/framework used
 Ex. -
