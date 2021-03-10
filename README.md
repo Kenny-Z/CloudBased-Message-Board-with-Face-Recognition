@@ -1,10 +1,18 @@
-## Project title
-IoT Message Board with Face Recognition
+## IoT Message Board with Face Recognition
+Our message board builds an interactive message broadcasting system for the conve-
+nience of both the broadcaster and the audience. It uses cloud-based platform Twilio to
+send and receive messages and pictures. The local system includes a touchable screen
+for message display and user interaction, a raspberry pi for computing and controlling,
+a local built-in MySQL database to store all the data and a camera for face recognition
+purposes. Our board provides the function of general announcement, targeted notifica-
+tion and 'knock knock'( an interactive broadcasting method). The users are not limited
+to professors and students, they can be co-workers to bosses in the workplace, parents
+to their kids at home and many other possible situations.
 
 ## Motivation
 In this age of information explosion, its hard for everyone grab the useful info sometimes, and its even harder for the info publisher to target the right info consumers.
-This project tries to make the information transfer easier by creating a message board which displays the right information for the right people at the right time. This message
- 
+This project tries to make the information transfer easier by creating a message board which displays the right information for the right people at the right time.
+
 ## Tech/framework used
 Raspberry Pi, Python, Twilio, MySQL, Camera, PyQt
 
