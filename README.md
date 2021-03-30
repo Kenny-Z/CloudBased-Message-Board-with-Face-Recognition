@@ -1,4 +1,5 @@
 ## IoT Message Board with Face Recognition
+Video Link: https://www.bilibili.com/video/BV1t54y1R7r5
 Our message board builds an interactive message broadcasting system for the convenience of both the broadcaster and the audience. It uses cloud-based platform Twilio to
 send and receive messages and pictures. The local system includes a touchable screen for message display and user interaction, a raspberry pi for computing and controlling,
 a local built-in MySQL database to store all the data and a camera for face recognition purposes. Our board provides the function of general announcement, targeted notifica-
