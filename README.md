@@ -5,7 +5,7 @@ a local built-in MySQL database to store all the data and a camera for face reco
 tion and 'knock knock'( an interactive broadcasting method). The users are not limited to professors and students, they can be co-workers to bosses in the workplace, parents
 to their kids at home and many other possible situations.
 
-## Video Link: https://www.bilibili.com/video/BV1t54y1R7r5
+## Video Link: https://www.youtube.com/watch?v=sQ_Pg8R5bjM
 
 ## Motivation
 In this age of information explosion, its hard for everyone grab the useful info sometimes, and its even harder for the info publisher to target the right info consumers.
